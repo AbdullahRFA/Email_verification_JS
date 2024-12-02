@@ -31,7 +31,7 @@ git clone https://github.com/AbdullahRFA/email-verification-form.git
 
 	2.	Navigate to the project directory:
 
-# cd email-verification-form  
+cd email-verification-form  
 
 
 	3.	Open the index.html file in your browser to view the form.
