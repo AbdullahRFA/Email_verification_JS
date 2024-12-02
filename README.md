@@ -60,8 +60,8 @@ This project is licensed under the MIT License. You’re free to use, modify, an
 
 # 🤝 Contact
 
-For any questions or collaboration opportunities, feel free to reach out:
-	•	Email: shakibrybmn@gmail.com
-	•	LinkedIn: https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/
+# For any questions or collaboration opportunities, feel free to reach out:
+		•	Email: shakibrybmn@gmail.com
+		•	LinkedIn: https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/
 
 Enjoy using this project and happy coding! 🎉
